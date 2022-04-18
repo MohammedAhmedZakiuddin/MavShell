@@ -1,8 +1,3 @@
-/*
-    MOHAMMED AHMED ZAKIUDDIN
-    1001675091
-*/
-
 #define _GNU_SOURCE
 
 #include <stdio.h>
