@@ -6,7 +6,7 @@ The shell, like csh or bash, will run and accept commands until the user exits t
 Supports upto 10 command line parameters only. 
 
 Commands to run:
-./msh.c or gcc msh.c & a.out 
+./msh.c or gcc msh.c & a.out <br />
 ls - list the files or folders inside the directory.
 cd - changes the directory to the provided filename.
 cd .. - brings back one directory.
