@@ -2,7 +2,7 @@
 
 This shell works similiar to bourne shell (bash), c-shell (csh) or korn shell (ksh) 
 msh.c accepts commands, forks a child process and execute those commands.
-The shell, like csh or bash, will run and acceptcommands until the user exits the shell.
+The shell, like csh or bash, will run and accept commands until the user exits the shell.
 Supports upto 10 command line parameters only. 
 
 Commands to run:
