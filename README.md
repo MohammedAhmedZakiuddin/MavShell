@@ -4,7 +4,7 @@ This shell works similiar to bourne shell (bash), c-shell (csh) or korn shell (k
 This program (msh.c) accepts commands, forks a child process and execute those commands. 
 It works like csh or bash, which will run and accept commands until the user exits the shell.
  
-Commands to run:
+Commands to run: <br />
 ./msh.c or gcc msh.c <br />
 a.out <br />
 
